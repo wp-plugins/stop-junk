@@ -6,9 +6,9 @@ Donate link: http://stopjunk.megatag.me/
 
 Tags: comments, spam, junk, verification, post
 
-Requires at least: 1.0
+Requires at least: 3.0
 
-Tested up to: 3.4
+Tested up to: 3.3.2
 
 Stable tag: 1.0
 
