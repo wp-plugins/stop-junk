@@ -6,10 +6,10 @@ Requires at least: 3.0
 Tested up to: 3.3.2
 Stable tag: 1.0
 
-Stops spam on comments box. User needs to enter result of a simple math problem in a text box before posting a comment. User will only be prompted if not logged in. [Try the demo here](http://stopjunk.megatag.me)
+Stops spam on comments box. User needs to enter result of a simple math problem in a text box before posting a comment.
 
 ==Description==
-Stops spam on comments box. User needs to enter result of a simple math problem in a text box before posting a comment. User will only be prompted if not logged in. [Try the demo here](http://stopjunk.megatag.me)
+Stops spam on comments box. User needs to enter result of a simple math problem in a text box before posting a comment. User will only be prompted if not logged in. It's a simple to use plugin that won't leave your user frustrated when trying to post. [Try the demo here.](http://stopjunk.megatag.me)
 
 == Installation ==
 1. Upload `stop-junk` directory to the `/wp-content/plugins/` directory
